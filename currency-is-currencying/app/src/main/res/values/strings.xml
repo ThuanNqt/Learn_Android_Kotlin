@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="input_type">Input Currency: </string>
+    <string name="output_type">Output Currency: </string>
+    <string name="init">0</string>
+    <string name="hint">0</string>
+</resources>
